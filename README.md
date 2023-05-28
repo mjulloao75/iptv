@@ -172,5 +172,11 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CpQFL0HIuuT0Tosu5K6m_kG6bPd
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://static.wikia.nocookie.net/aktsuki/images/4/42/Dbs.png/revision/latest?cb=20160222030755&path-prefix=es" group-title="Channels",Star Channel
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CoUFI5ahuQDmPqpUDotgQXAHpBIclONPLJV7hAOF53IheOzIdzolDPfWZgHi6DE2q_SUhLsUDpHdkFImGccbdcQFnrrWK54e12BwFNTevimF3uLWUnoFsdFGyhXfpkssoDN2YxxO6ogGL_DOssuMpwynB6RGp9CJomwN3e12ONgq284u1YESYEbeaCR1gJ59VqnnB7hMqBYuDV_5vW6C0ON-nxm7xMink5BDpI7jpEqjzUY839MtV6GGvRTonyffDi_Nf3b0KyHQpo3A6RdUE5WRqtVF8h4xmtn22UdH5srIukHJ_Ka6L4Fa2yGaFKFct0HY8auXM5I8EkjQWdkY9tOnuvSeeXT1-bfKTvM3PhFppXPe3VYDQJRvhhDH8h-KHX8Q74koLSu76NQz2lmjW7w_nue_VEszT9JmKHr8g0Q2gFwq5OJPbfshF_-lgN_vk6MgvNP87nnmxZ9_bRuZDSU4lJyoQ6nRapmHakqY1Nie0f8WRpZzz6_9dTsm2J3gGZHLGaIA5XeGx9LG3U2zLFec4FcTOGN0lOyfJ_88Mu7m_lSWicHcytvjqnQGR_FMmcKnBwUVxrF0ZJyP33NpMR7L0VOrqIzi-HLt-7PBiXiWpVntLKCt2hYYmay3kknxb7uzoT7wrZU_Op0hXk92NzsisPNmOGl08iPYtc6aSFsdX_JywMlwUxTc1YCwiMH-NnFdBEFwJDqCqfvk-hPZxGz-NQENlsNoyMJJ6vE-zmMcLtRggbOaHPApi56G5gmXXA3AKlg54_aAq3A6g6AN7QLoBX8IMVF-gHa6v_7-t-FEUqZKKOFHjxaJJW_MuyTxS-5YBaOthX2-vTHG_f9WzrNLuU_0YM0nGgwaMhQJRFBmtHLBEDYgASoJZXUtd2VzdC0yMNYG.m3u8
 
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="General",TV Azteca Noroeste
+https://live.info7.mx/info7/stream.m3u8
