@@ -17,7 +17,7 @@ https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/a
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV 
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjaatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="News",TV Perú
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
