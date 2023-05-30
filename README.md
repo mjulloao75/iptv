@@ -174,7 +174,7 @@ https://stream.ads.ottera.tv/cl/230529chqb0mal69qsrp05bdtg/854x480_550000_3_f.m3
 
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Deportes,Mexico",Canela TV Deportes
-https://stream.ads.ottera.tv/cl/230529chqb36a23ngdit6ahprg/1280x720_4214276_1_f.m3u8?i=475_3010
+https://stream.ads.ottera.tv/cl/230530chqvjdm752gjbguqcbvg/1280x720_4214276_1_f.m3u8?i=475_3010
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Kids",Canela TV Kids
 https://stream.ads.ottera.tv/cl/230529chqb36p2j02phafvjje0/1920x1080_2900000_5_f.m3u8?i=475_654
@@ -198,13 +198,13 @@ https://stream.ads.ottera.tv/cl/230529chqejtil69qsrp06glg0/1280x720_2300000_0_f.
 https://stream.ads.ottera.tv/cl/230529chqejtil69qsrp06glg0/1280x720_2300000_0_f.m3u8?i=475_4312
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Chill Latino
-https://stream.ads.ottera.tv/cl/230529chqeki0gv6tvncdom030/1280x720_3071200_0_f.m3u8?i=475_1058
+https://stream.ads.ottera.tv/cl/230530chqvipp2j02pha86pslg/1280x720_2300000_0_f.m3u8?i=475_1085
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Hits
 https://stream.ads.ottera.tv/cl/230529chqbntm752gjbguhm23g/1280x720_3071200_0_f.m3u8?i=475_1058
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Flow Caribeño 
-https://stream.ads.ottera.tv/cl/230529chqejtil69qsrp06glg0/1280x720_2300000_0_f.m3u8?i=475_4312
+https://stream.ads.ottera.tv/cl/230530chqvkgu752gjbguqck40/1280x720_2300000_0_f.m3u8?i=475_1083
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Tu Pop Favorito	
 https://stream.ads.ottera.tv/cl/230529chqel36752gjbguj6l5g/1280x720_2300000_0_f.m3u8?i=475_1086
