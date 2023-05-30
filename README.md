@@ -4,10 +4,7 @@
 #EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana TV SD
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFt8ghezaDuMIA5gqn3AiOh_EeC38LYZZqou2T7j3amOu)/dm/3/x774s7s/s/live-3.m3u8
-
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana TV HD
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana TV
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú",ATV 
@@ -146,7 +143,7 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas,Mexico",Novelísima
-https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/3502a1cc-ece7-47df-b421-ea86db7dd48b:SCL/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
+https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/4f2a1c2e-4672-4ae8-978a-07ee6051f4d2:SCL/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas,Bolivia",SEO TV Novelas
 https://seo.tv.bo/tv/q4PE.m3u8
@@ -164,7 +161,6 @@ https://seo.tv.bo/tv/q2KIDS.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id="Televisa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFkA1QV1fG6ZE7hc4ElKjwQ41DbOjXFsIvUSnkAU1Wg&s" group-title="Noticias,Mexico",Nmas+
-https://seo.tv.bo/tv/q2KIDS.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 
 #EXTINF:-1 tvg-id="Televisa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="Noticias,Mexico",Canal Once
@@ -176,8 +172,6 @@ https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-id="CombateGlobal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e09566ba67685210144b055327ccf1e.webp" group-title="Deportes,Argentina",Combate Global
 https://stream.ads.ottera.tv/cl/230529chqb0mal69qsrp05bdtg/854x480_550000_3_f.m3u8?i=475_960
 
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Mexico",Canela TV
-https://stream.ads.ottera.tv/cl/230529chqb17lai2if2v55u0b0/1280x720_3071200_0_f.m3u8?i=475_653
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Deportes,Mexico",Canela TV Deportes
 https://stream.ads.ottera.tv/cl/230529chqb36a23ngdit6ahprg/1280x720_4214276_1_f.m3u8?i=475_3010
@@ -186,13 +180,40 @@ https://stream.ads.ottera.tv/cl/230529chqb36a23ngdit6ahprg/1280x720_4214276_1_f.
 https://stream.ads.ottera.tv/cl/230529chqb36p2j02phafvjje0/1920x1080_2900000_5_f.m3u8?i=475_654
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moonbug2ndLogo.png/1920px-Moonbug2ndLogo.png" group-title="Mexico",MoonBug
-https://cfvod.kaltura.com/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_fcoxvpcg/v/1/ev/10/flavorId/1_ofvrqh69/name/a.mp4/index.m3u8/seg-12-v1-a1.ts
+https://stream.ads.ottera.tv/cl/230529chqenrblmhuafumg4f00/1920x1080_2900000_5_f.m3u8?i=475_3365
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Novelas,Mexico",Canela TV Novelas Turcas
 https://stream.ads.ottera.tv/cl/230529chqb6t652bbt0j3p9r80/1280x720_2300000_0_f.m3u8?i=475_5088
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Novelas,Mexico",Canela TV Novelas 
-https://cfvod.kaltura.com/scf/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_htpd5pyq/v/1/ev/8/flavorId/1_kj4ydzox/clipFrom/480000/clipTo/960000/name/a.mp4/index.m3u8/seg-60-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzI2NTczMzEvc3AvMjY1NzMzMTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9odHBkNXB5cS92LzEvZXYvOC9mbGF2b3JJZC8xX2tqNHlkem94L2NsaXBGcm9tLzQ4MDAwMC9jbGlwVG8vOTYwMDAwL25hbWUvYS5tcDQvaW5kZXgubTN1OC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ3NDgzNjQ3fX19XX0_&Signature=H2lmGqP-nwIEIIIgsKzheE4M-FsoVX-lC6j1rtMoxT4jVbkQHVnRubwJbft3pFVbG5q9YWTmz7US-h8zHVk4YeFZqDaySocM8JpZ66wZ3OVyOOitgLVAm7ULXrFQCpakirXueP-Zs4xAq77N1Vtph0PnCqVO2-za6QMA7BD1DfKzx3sFqWLY3HlCgFkv9p0EFXRNAS~xBY6YisDzig83r4IbR2UMlkbF7iewqj3qVCeEL2ZFJLd6vtJcbhu7YbBNIkL34LVY~tRbUCDIF-x-~WAPPIIuLjvEFYSFqYySDkIklIbJprO19EpiRmYvu7M9JSJfcrJ1OO0RoX7ns1HSJQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+https://stream.ads.ottera.tv/cl/230529chqeesp2j02pha80k930/1280x720_3071200_0_f.m3u8?i=475_653
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/true_crime_linear.jpg" group-title="Mexico",True Crime
-https://cfvod.kaltura.com/scf/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_1yroh57f/v/1/ev/10/flavorId/1_a9cnqj0o/clipFrom/560000/clipTo/1275000/name/a.mp4/index.m3u8/seg-94-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzI2NTczMzEvc3AvMjY1NzMzMTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xeXJvaDU3Zi92LzEvZXYvMTAvZmxhdm9ySWQvMV9hOWNucWowby9jbGlwRnJvbS81NjAwMDAvY2xpcFRvLzEyNzUwMDAvbmFtZS9hLm1wNC9pbmRleC5tM3U4LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0ODM2NDd9fX1dfQ__&Signature=I3vjbTThZUdhYqiV36hypPzLo0tenJ~RK6Dsp-Qm~iVDCqstGEGW32Agg4546Xql1Jb49BlXIcIzvOCH3HMYi9ALRDV6a~zuLYhoUMyN4oVdkwgieyeYaDTeUBHJ00IQUsDVdgEIwK23XJE73oF3-~Xt7fE6Bt4j2hAG0LyKvD4u1JM6wbGuEh1BEa6Ppy~WKReClDwNxOQywm7g2NG-VQi0lFFpcVRy-Co0e4Xtl6e3b-qnC1ydGfjhlAxoJdST8D3h66fstNrh4iNXbXc~3yEpk5-VJ4m3ZRg-x3SI6c2gWXrHhmaiucsVm8Q-027qPA1ZIQtBPtNEsVJxLkhZxQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+https://stream.ads.ottera.tv/cl/230529chqejjgv7e90ti51oeo0/1280x720_3071200_0_f.m3u8?i=475_653
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Animacion",Canela TV Zona Acción 
+https://stream.ads.ottera.tv/cl/230529chqejtil69qsrp06glg0/1280x720_2300000_0_f.m3u8?i=475_4312
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Regional Mexicano
+https://stream.ads.ottera.tv/cl/230529chqejtil69qsrp06glg0/1280x720_2300000_0_f.m3u8?i=475_4312
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Chill Latino
+https://stream.ads.ottera.tv/cl/230529chqeki0gv6tvncdom030/1280x720_3071200_0_f.m3u8?i=475_1058
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Hits
+https://stream.ads.ottera.tv/cl/230529chqbntm752gjbguhm23g/1280x720_3071200_0_f.m3u8?i=475_1058
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Flow Caribeño 
+https://stream.ads.ottera.tv/cl/230529chqejtil69qsrp06glg0/1280x720_2300000_0_f.m3u8?i=475_4312
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Tu Pop Favorito	
+https://stream.ads.ottera.tv/cl/230529chqel36752gjbguj6l5g/1280x720_2300000_0_f.m3u8?i=475_1086
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música,Mexico",Canela TV Ritmos Inolvidables
+https://stream.ads.ottera.tv/cl/230529chqeljvlrkk418039c60/1280x720_2300000_0_f.m3u8?i=475_1081
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2021_Major_Arena_Soccer_League_logo.svg/1920px-2021_Major_Arena_Soccer_League_logo.svg.png" group-title="Deportes,Estados Unidos",Major Arena Soccer League MASL
+https://stream.ads.ottera.tv/cl/230529chqem3rmgp5280epk71g/1920x1080_5931200_4_f.m3u8?i=475_4060
+
+#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Kids,Mexico",Mundo Pequeño
+https://stream.ads.ottera.tv/cl/230529chqeo9223ngdit6bivrg/1920x1080_2900000_5_f.m3u8?i=475_3366
