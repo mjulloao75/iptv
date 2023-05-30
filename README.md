@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Perú",Latina
+#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="APT",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="APT",Panamericana TV
@@ -36,7 +36,7 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg" group-title="Noticias",ExitosaTV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
-#EXTINF:-1 tvg-id="TVCosmos" tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="Perú",TV Cosmos
+#EXTINF:-1 tvg-id="TVCosmos" tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="APT",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w889125805.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://cdn.usmptv.pe/v1/images/logo-usmptv-main.png" group-title="APT",USMP TV1
@@ -57,10 +57,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Internacional",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="China, Internacional",CGTN Español
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Internacional",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Perú, Legislativo",Congreso TV
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislativo",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=w:148,h:99,cg:true,m/cr=w:148,h:99/qt=q:100/ll" group-title="Películas",Extrema TV
@@ -188,6 +188,3 @@ https://stream.ads.ottera.tv/cl/230530chqvsl8gv6tvncduf5pg/1280x720_2300000_0_f.
 
 #EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2021_Major_Arena_Soccer_League_logo.svg/1920px-2021_Major_Arena_Soccer_League_logo.svg.png" group-title="Deportes",Major Arena Soccer League MASL
 https://stream.ads.ottera.tv/cl/230530chr2c5blmhuafummpbh0/1920x1080_5931200_4_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Kids",Mundo Pequeño
-https://stream.ads.ottera.tv/cl/230529chqeo9223ngdit6bivrg/1920x1080_2900000_5_f.m3u8
