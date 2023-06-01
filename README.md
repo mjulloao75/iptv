@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/4a49e195d8ccff4227f56a3444312a5c/366701-frequencia-latina-peru-canales-tv-mundo-multimedia.gif" group-title="General",Latina
+#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="General",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
@@ -8,6 +8,9 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Deporte",eSports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LocomotionTV.ve" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/6c/LocomotionGrande.png/revision/latest?cb=20150722124646&path-prefix=es" group-title="Deporte",Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deporte",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -203,48 +206,4 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 
 #EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Música",Visión TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Therugbynetwork" tvg-logo="https://images.squarespace-cdn.com/content/v1/57c6a6f6c534a51a2d4b3650/1632925508464-ORRZ8ZL5YNO20U3Q9H8M/Case+Studies+%286%29.png?format=750w" group-title="Deportes",The Rugby Network
-https://amg00585-sportstribaltv-therugbynetwork-sportstribal-ad-o4.amagi.tv/playlist/amg00585-sportstribaltv-therugbynetwork-sportstribal/cb563e1e726c618b84c23f78d8f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec58ae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5feb45413dc69a7ac4a1e972958e683179dc94dedd6d046c812857ff713cbc7f9dad441e037a059966f4ad69939581fa9a53bf7f958a4cfe81153fe420936d0d17bc1e9937d3393534b1cd9f2cead6cfc12b4fd4d14fab8da72f57f9135847faf4997e84ba4bfba9d35299d65543a13448ccc8df090193ab067bbb0ecda7a7397bc742a04a1f9bb53d76b52299cccc3636cf3e252d3e84c2e988afd649698a08aecb1c2669528cbfd39f9574d636c1e0b8a51a3d53895799d309fc71d25535a57edb46184d7891060390fb18950824740f9c3ddd7964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebee64482b852e73d7c6a03b5f33e560a192e87a0355b420ca92fd3dac4e5781e13aca69d8ca77d0c4768471c5cf1a18d16bc81cf2e1113bb230568661f1a93449b29e809470421de0d91cb2d71960d3522f6ad5c0c0e35410875760ae9b427ed7fcd26e2d9f096/149/1280x720_3000000/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Deportes",Canela TV Deportes
-https://stream.ads.ottera.tv/cl/230530chqvjdm752gjbguqcbvg/1280x720_4214276_1_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Animación",Canela TV Kids
-https://stream.ads.ottera.tv/cl/230530chqvmhq23ngdit6gkocg/1920x1080_2900000_5_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Novelas",Canela TV Novelas Turcas
-https://stream.ads.ottera.tv/cl/230530chqvqrflrkk4180a5gdg/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Novelas",Canela TV Novelas 
-https://stream.ads.ottera.tv/cl/230530chqvqivlrkk4180a4ma0/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Animacion",Canela TV Zona Acción 
-https://stream.ads.ottera.tv/cl/230530chqvrvtai2if2v5c7be0/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música",Canela TV Chill Latino
-https://stream.ads.ottera.tv/cl/230530chqvipp2j02pha86pslg/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música",Canela TV Flow Caribeño 
-https://stream.ads.ottera.tv/cl/230530chqvkgu752gjbguqck40/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música",Canela TV Tu Pop Favorito	
-https://stream.ads.ottera.tv/cl/230529chqel36752gjbguj6l5g/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Canela-media.jpeg" group-title="Música",Canela TV Regional Mexicano
-https://stream.ads.ottera.tv/cl/230530chqvsl8gv6tvncduf5pg/1280x720_2300000_0_f.m3u8?i=475_1084
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2021_Major_Arena_Soccer_League_logo.svg/1920px-2021_Major_Arena_Soccer_League_logo.svg.png" group-title="Deportes",Major Arena Soccer League MASL
-https://stream.ads.ottera.tv/cl/230530chr2c5blmhuafummpbh0/1920x1080_5931200_4_f.m3u8
 
