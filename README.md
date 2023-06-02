@@ -141,17 +141,8 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelísima
 https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/8e57823a-5cc9-40f6-af41-e98965bb742d:SCL/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
 
-#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas
-https://seo.tv.bo/tv/q3NVLS.m3u8
-
-#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Películas",SEO TV Películas
-https://seo.tv.bo/tv/q4PE.m3u8
-
-#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV
-https://live.seo.tv.bo/live/1SEO.m3u8
-
-#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Animación",SEO Kids
-https://seo.tv.bo/tv/q2KIDS.m3u8
+#EXTINF:-1 tvg-id="Deporttv" tvg-logo="https://deportv.gob.ar/assets/deportv10.fd14a2a1.png" group-title="Novelas",DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w577097008.m3u8
 
 #EXTINF:-1 tvg-id="RBTV.bo" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Deporte",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
