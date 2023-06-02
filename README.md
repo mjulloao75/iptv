@@ -37,7 +37,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú",Willax
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvTDbd9rlCtnBbStwbYe07kD3KOSkGn5VGjqyQT3jJMf)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvTDbd9rlCtnBbStwbYe07kD3KOSkGn5VGjqyQT3jJMf)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 tvg-id="KaribeñaTV" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Música",KaribeñaTV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
