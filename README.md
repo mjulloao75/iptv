@@ -37,7 +37,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú",Willax
-https://stream-11.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmk2e5_dRnwE4tV9888Kcd-pKOxhkkOVPBBWp720C3Vch)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lcore
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvTDbd9rlCtnBbStwbYe07kD3KOSkGn5VGjqyQT3jJMf)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="KaribeñaTV" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Música",KaribeñaTV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
@@ -168,7 +168,7 @@ https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Entertainment",LatinoKids
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animación",LatinoKids
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV
