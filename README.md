@@ -21,7 +21,7 @@ https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="General",Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="" group-title="General",Controversia TV
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="" group-title="General",Vinilos TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="General",Exitosa
@@ -144,6 +144,9 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="General",TV Azteca Noroeste
 https://live.info7.mx/info7/stream.m3u8
 
+#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="General",TV Azteca Noroeste (Monterrey)
+https://live.info7.mx/info7/stream.m3u8
+
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelísima
 https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/548472a2-5cc2-4615-b883-6198d1242c25:SCL/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
 
@@ -261,4 +264,83 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0S6u4_qzKsr2wChs4YWVCMo76DpECWgHJz7afk1avglzPJ7-6Ddbh9Tx8ANkZdsjAIw&usqp=CAU" group-title="",TLnovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-logo="" group-title="",ATM Televisión
+https://v4.tustreaming.cl/atmtv/index.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://www.24horas.cl/24horas/site/artic/20220210/imag/foto_0000000120220210144317/logo_main.svg" group-title="Noticias",24 Horas
+https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+
+#EXTINF:-1 tvg-id="AlternativaTV.cl" tvg-logo="https://i2.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png?resize=1024%2C358&ssl=1" group-title="Música",Alternativa TV
+https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperChannel12.mx" tvg-logo="https://superchannel12.com/images/logos/superchannel12.com/dark.png?" group-title="General",Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+
+#EXTINF:-1 tvg-id="CanalBlu.ar" tvg-logo="http://canalblu.com/wp-content/uploads/2022/11/3636.png" group-title="Películas",Canal Blu
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="" group-title="Películas",Xtrema Cine Acción
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="" group-title="Animales",Xtrema Mundo Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="" group-title="Animación",Xtrema Zona Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="" group-title="Películas",Xtrema Cine Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="" group-title="Películas",Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="" group-title="Películas",Xtrema Cine Comedy
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="" group-title="Películas",Xtrema Cine Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="" group-title="Películas",Xtrema Cine Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="" group-title="Películas",Xtrema Cine Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="" group-title="Películas",Xtrema Cine Hindi
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="" group-title="Películas",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="" group-title="Animación",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="Películas" group-title="",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="" group-title="Películas",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AcequiaTV.ar" tvg-logo="https://www.acequia.tv/dev/wp-content/uploads/2017/10/logo_acequia-1-250x56.png" group-title="General",Acequia TV
+https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+
+#EXTINF:-1 tvg-id="SenalU.ar" tvg-logo="https://www.unidiversidad.com.ar/img/senalU/iconos/senal_U_logo_blanco.svg" group-title="General",Señal U
+https://tvd.uncu.edu.ar/memfs/2d4ab656-9596-4ce8-85a5-9aae1cf3a31d.m3u8
+
+#EXTINF:-1 tvg-id="SenalColombia" tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg" group-title="General",Señal Colombia
+https://tvd.uncu.edu.ar/memfs/2d4ab656-9596-4ce8-85a5-9aae1cf3a31d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhEdcLgYfw-XZ_aokSa0I2rK0I5gLjEGiWEZ9yVY4qBC7TqaJlbc-SORbo45D2ujhUf0&usqp=CAU" group-title="Películas",HISPANTV
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.superguidatv.it/wp-content/uploads/2016/07/sportitalia.png" group-title="Deporte" tvg-name="Sport Italia",Sport Italia
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgciBEvcRdxE6N17pSFG_ODRlwQet52Vxq8w&usqp=CAU" group-title="Deporte",Sport Italia Solo Calcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlSMov4nn9alUBO-IFlQQGH_xsx4N4tzIIA&usqp=CAU" group-title="Deporte",Sport Italia Live 24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+
 
