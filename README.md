@@ -15,6 +15,18 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Deporte",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="General",Cajamarca TV
+https://ca2.inka.net.pe/cajamarcatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="General",Conecta2TV
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="" group-title="General",Controversia TV
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="General",Exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV 
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
@@ -37,7 +49,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-id="Willax" tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú",Willax
-https://stream-01.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvTDbd9rlCtnBbStwbYe07kD3KOSkGn5VGjqyQT3jJMf)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lsv4
+https://stream-11.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmk2e5_dRnwE4tV9888Kcd-pKOxhkkOVPBBWp720C3Vch)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-1 tvg-id="KaribeñaTV" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Música",KaribeñaTV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
@@ -72,7 +84,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislativo",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=w:148,h:99,cg:true,m/cr=w:148,h:99/qt=q:100/ll" group-title="Películas",Extrema TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png" group-title="Películas",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/800px-TeleSUR-Logo.svg.png" group-title="General",Telesur
@@ -123,14 +135,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="MTV Clips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdENtCDwOqTVWKocBBaEmIdR38JY7BcRq61eDeNyz2s1h8O5rlXBTLqzZdGg1piCqOyA&usqp=CAU" group-title="Música",MTV Clips
 http://rtmp.one.by:1200
 
-#EXTINF:-1 tvg-id="RakutenTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1024px-Rakuten_TV_logo.svg.png" group-title="General",RakutenTV
-https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/449fbfe4-1e6f-4002-9ba4-5a23e64f911f/1.m3u8
-
 #EXTINF:-1 tvg-id="RealMadridTV" tvg-logo="https://imagenes.eldebate.com/files/image_940_353/uploads/2022/04/07/624f05e678392.jpeg" group-title="Deporte",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="RealMadridTV" tvg-logo="https://iteleflix.com/archivos/Logo-Betis-TV.png" group-title="Deporte",Real Betis TV
-https://betistv-live.flumotion.com/Hzs2hYXJg9LG8OxAeYMcPQ/1685489366/betistv/live_all/betistv/live_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
@@ -139,10 +145,19 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelísima
-https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/8e57823a-5cc9-40f6-af41-e98965bb742d:SCL/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
+https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/548472a2-5cc2-4615-b883-6198d1242c25:SCL/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
 
-#EXTINF:-1 tvg-id="Deporttv" tvg-logo="https://deportv.gob.ar/assets/deportv10.fd14a2a1.png" group-title="Novelas",DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w577097008.m3u8
+#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas
+https://seo.tv.bo/tv/q3NVLS.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Películas",SEO TV Películas
+https://seo.tv.bo/tv/q4PE.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Animación",SEO Kids
+https://seo.tv.bo/tv/q2KIDS.m3u8
 
 #EXTINF:-1 tvg-id="RBTV.bo" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Deporte",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -155,6 +170,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 
 #EXTINF:-1 tvg-id="Televisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1920px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Argentina
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" group-title="Noticias",TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -197,4 +215,50 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 
 #EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Música",Visión TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Películas",A3Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="Novelas",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.
+
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Películas",Rakuten Cine Acción
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Películas",Rakuten Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="Películas",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Películas",Rakuten Familiar
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Películas",Rakuten Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpektraTV.es" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Música", SpektraTV
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Animación",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" group-title="Deporte",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://static.euronews.com/website/images/euronews-logo-neon-blue-403x60.svg" group-title="Noticias",Euronews en Español
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwonder-use.png?resize=300%2C83&ssl=1" group-title="General",InWonder
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Pelícuñas",MyTime Movie Network Mexico 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://miro.medium.com/v2/resize:fit:2400/1*aQfL6JrXMI-kCNNt-1DFsQ.png" group-title="Cocina",Tastemade
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0S6u4_qzKsr2wChs4YWVCMo76DpECWgHJz7afk1avglzPJ7-6Ddbh9Tx8ANkZdsjAIw&usqp=CAU" group-title="",TLnovelas Europa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
