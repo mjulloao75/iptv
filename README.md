@@ -6,6 +6,9 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="ContactoDeportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="Deportes",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="ContactoDeportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="Deportes",Contacto Deportivo
+https://live.obslivestream.com/cdeportivo2/index.m3u8
+
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
