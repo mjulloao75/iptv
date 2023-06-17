@@ -129,7 +129,7 @@ https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestCableSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3N0Wilbjubvu3yHwzKAbGzoAt2MYyF4ASXAASo0_lg&s" group-title="Deportes",Best Cable Sports | PERU
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMusic" tvg-logo="[https://scontent.flim19-1.fna.fbcdn.net/v/t39.30808-6/304888913_751357935945307_7397207481942610485_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tNc5_5B6TfQAX8Vmnbg&_nc_ht=scontent.flim19-1.fna&oh=00_AfAsLHafxJKBbCBvYs5QrzcHggr5mhRjqKx9v_uAduBdFQ&oe=647A4A02](https://upload.wikimedia.org/wikipedia/commons/f/f1/Best_Cable_Music.png)" group-title="Música",Best Cable Music | PERU
+#EXTINF:-1 tvg-id="BestCableMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Best_Cable_Music.png" group-title="Música",Best Cable Music | PERU
 https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="+CumbiaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4K5G3yZipjVvrC7l2n2qy3iQ2-0wRNTQMRwMB1vcU8Tbhe5gHN-h42HfrKk6Qw6pQQE&usqp=CAU5" group-title="Música",+CumbiaTV | PERU
