@@ -48,7 +48,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="General",Cajamarca TV | PERU
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="General",Conecta2TV | PERU
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714330?e=2147483647&v=beta&t=J6qaUBfjLlSknU5C_0HxfJa7LFv0TVd6egnbLOuiRqk" group-title="General",Conecta2TV | PERU
 https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/347625269_6122642541154442_8445767911329935475_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG0F2yvh8eN_tiDP0UuCLrYvUnL758TD-m9ScvvnxMP6db7Bn7nzSckAncny_L5SCc&_nc_ohc=p7iH-0Y3oxIAX8lR_ee&_nc_ht=scontent.flim28-2.fna&oh=00_AfD0JdiMCdtEzLSDYu5fprQfw9FFIJeeJzEuakNpoNyWAw&oe=648B2851" group-title="Música",Vinilos TV | PERU
