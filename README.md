@@ -222,7 +222,7 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="General",Vía Televisión | PERU
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1094" tvg-name="Uranio TV" tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png",Uranio TV | PERU
+#EXTINF:-1 tvg-id="1094" tvg-name="Uranio TV" tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="General",Uranio TV | PERU
 https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Noticias",Visión Noticias | PERU
