@@ -937,8 +937,23 @@ https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="Competencia",Estrella Games | ESTADOS UNIDOS
 https://estrella-games-oando.amagi.tv/playlistR432p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Radio RPP | PERU
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Radios",Radio RPP | PERU
 https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m&sid=eUR63rh87AMUAobkcCnnc50a3b8ZMrXM&pid=rk4itq1CQHWFCJcw65idLOTh7d5M7YUZ&ref=rpp.pe&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1686935960124&ot=jV5BKVhm7p9A1WSV8ThnhA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://slazona.radio-grpp.io/static/img/logo_lz.svg" group-title="Radios",Radio La Zona | PERU
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?listeningSessionID=641b564000df2c8b_7869537_9EgfsfEi__0000003wyaH&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m&sid=bx5e3sYxqKPMtlORhDrbo0NKpJlxujIJ&pid=p73JmEf9xfLxQKWOZFusYU1qj1bN9NwG&ref=audioplayer.pe&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1687469085930&ot=FctL6jl1o-6NiVAVv0miMw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m
 
 
 
