@@ -921,3 +921,26 @@ https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-chno="383" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="Reality",MTV Drag
 https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e" group-title="General",Telemadrid | ESPAÑA
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png?e=202210241111" group-title="General", La Red | CHILE
+https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="Competencia",Estrella Games | ESTADOS UNIDOS
+https://estrella-games-oando.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Radio RPP | PERU
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m&sid=eUR63rh87AMUAobkcCnnc50a3b8ZMrXM&pid=rk4itq1CQHWFCJcw65idLOTh7d5M7YUZ&ref=rpp.pe&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1686935960124&ot=jV5BKVhm7p9A1WSV8ThnhA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m
+
+
+
+
+
