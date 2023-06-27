@@ -50,6 +50,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Telecolor TV" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="General",Telecolor TV | PERU
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+https://live.obslivestream.com/telecolormux/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="General",Cajamarca TV | PERU
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
@@ -410,6 +411,9 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1 tvg-id="ruidostv" tvg-logo="https://chtv.hn/wp-content/uploads/2022/10/Untitled-design-28.png" group-title="Música",CHTV
 https://media.streambrothers.com:1936/8054/8054/chunklist_w516580514.m3u8
 
+#EXTINF:-1 tvg-id="ruidostv" tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="Música",FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ruidostv" tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100" group-title="Deportes",beIN SPORTS XTRA | ESPAÑA
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8
 
@@ -418,6 +422,12 @@ https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Deportes",A Spor | TURQUIA
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://www.sportstv.com.tr/assets/images/template/platform-logo.png" group-title="Deportes",Sports TV | TURQUIA
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="Deportes",Abu Dhabi Sports 1 | TURQUIA
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Música",Activa TV | ESPAÑA
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
@@ -992,8 +1002,22 @@ https://i.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63c69c87808b740007599fe1" tvg-id="63c69c87808b740007599fe1" tvg-chno="902" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="Animación",Érase una vez... | Pluto TV
 https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
 
-#EXTINF:-1 tvg-id="60511efd71ec430007f50d97" tvg-chno="926" tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="Novelas",Doramas | Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6185a9a88b2ce30007de5128/3063648/playlist.m3u8?terminate=false&sid=669aaf23-12f8-11ee-8edf-3635b7c1593b&deviceDNT=0&deviceLat=-12.0432&deviceLon=-77.0282&deviceModel=web&deviceVersion=114.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=f352c055-a267-4177-b1d4-1512ea155346&appVersion=7.3.0-61c941df65e64c5f6a98944137c6e21c21cef2e7&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJmODVmN2JmLTY1MTMtNDcwOC1iZTY4LWE2NjIwMWQyNTJjYiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NjlhYWYyMy0xMmY4LTExZWUtOGVkZi0zNjM1YjdjMTU5M2IiLCJjbGllbnRJUCI6IjM4LjI1LjI1LjIxMyIsImNpdHkiOiJMaW1hIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJQRSIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0xMi4wNDMyLCJkZXZpY2VMb24iOi03Ny4wMjgyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTQuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjMuMC02MWM5NDFkZjY1ZTY0YzVmNmE5ODk0NDEzN2M2ZTIxYzIxY2VmMmU3IiwiY2xpZW50SUQiOiJmMzUyYzA1NS1hMjY3LTQxNzctYjFkNC0xNTEyZWExNTUzNDYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9MaW1hIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpaak0xTW1Nd05UVXRZVEkyTnkwME1UYzNMV0l4WkRRdE1UVXhNbVZoTVRVMU16UTIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjg3NzQzMjU3LCJpYXQiOjE2ODc2NTY4NTcsImp0aSI6IjllZDk3MzhlLWJjNzQtNGJjMC04YjFiLTNkMDdhMGQ1ZmZiOCJ9.f0azoyYKsKQTyTuQAIkP_EVAgXIft0uer3zPuiYjCwk&CMCD=mtp%3D20200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f73acca0-d65c-4438-bf4f-ec7a03ab71b2%22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1006,6 +1030,5 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.rpp-noticias.io/2022/logo/oxigeno.png" group-title="Radios",Radio Oxígeno | PERU
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m&sid=bx5e3sYxqKPMtlORhDrbo0NKpJlxujIJ&pid=eZ8qY3uhb8r0viHLxl7ScaJ74AhagPjR&ref=audioplayer.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1687469729655&ot=h8FyOU7f489wIb-Ul5oWGw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=EvM1oizs9BoKOHjaa4egoAWlY8vagn4m
-
 
 
