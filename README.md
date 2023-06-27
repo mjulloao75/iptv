@@ -86,16 +86,16 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animación",LatinoKids | URUGUAY
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animación",Cartoon Network Latinoamerica 1 | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animación",Cartoon Network Latinoamerica 1 | USA
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animación",Cartoon Network Latinoamerica 2 | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animación",Cartoon Network Latinoamerica 2 | USA
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animación",Cartoonito Latinoamerica | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animación",Cartoonito Latinoamerica | USA
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="discoverykids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Animación",Discovery Kids | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="discoverykids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Animación",Discovery Kids | USA
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Internacional",Agrotendencia TV | COSTA RICA
@@ -126,7 +126,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w28699761.m3u8
 
 #EXTINF:-1 tvg-id="ElPais" tvg-logo="https://static.elpais.com/dist/resources/images/logos/primary/el-pais.svg" group-title="Noticias",El País | ESPAÑA
-https://d2xqbi89ghm9hh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/4d375456-bb36-43cd-b674-f39bff0f7810/0.m3u8
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 tvg-id="CentralTV Peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02EDTezA3OQpSmX6SfWArLk5_a7WBrsVKzTAvFTce-OgRiLhOXBSY8GVi1mkWAQ6pqFk&usqp=CAU" group-title="Noticias",CentralTV | PERU
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -185,7 +185,7 @@ https://live.seo.tv.bo/live/6SEO.m3u8
 #EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV | BOLIVIA
 https://live.seo.tv.bo/live/7SEO.m3u8
 
-#EXTINF:-1 tvg-id="RBTV.bo" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Deportes",Red Bull TV | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="RBTV.bo" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png?w=350&q=90&fm=webp" group-title="Deportes",Red Bull TV | USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id="Televisa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFkA1QV1fG6ZE7hc4ElKjwQ41DbOjXFsIvUSnkAU1Wg&s" group-title="Noticias",Nmas+ Media | MEXICO 
@@ -432,7 +432,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Música",Activa TV | ESPAÑA
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedia",AFV en Español | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedia",AFV en Español | USA
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="General",Alegre TV | REPUBLICA DOMINICANA
@@ -483,7 +483,7 @@ https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Animación",VariedTV | Streaming
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Películas",ACS NETWORK TV | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Películas",ACS NETWORK TV | USA
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 https://acl-server.linky.com.co/hls/magictv.m3u8
@@ -498,7 +498,7 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png"  group-title="Películas",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Animación",Tigueritos TV | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Animación",Tigueritos TV | USA
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Animación",PlanetaTV Kids | CHILE
@@ -936,7 +936,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png?e=202210241111" group-title="General", La Red | CHILE
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="Competencia",Estrella Games | ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="Competencia",Estrella Games | USA
 https://estrella-games-oando.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e262fe160040f26c05" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_comedias_logo_dark.png" group-title="Novelas",Sony Canal Novelas 1 | Plex
@@ -1051,9 +1051,38 @@ https://live.obslivestream.com/televida/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/06/LOGO-web.png" group-title="General",Selva TV | PERU
 https://live.obslivestream.com/selvatv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="General" tvg-name="Lax1",La 1 | ESPAÑA
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="General",La 1 | ESPAÑA
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="General",La 2 | ESPAÑA
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="General",TRECE | ESPAÑA
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Cultural",DW | ALEMANIA
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" group-title="General",America TeVe | USA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
+
+#EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Deportes",CnAr Deportes | ARGENTINA
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Aventura",Aventuras TV | ARGENTINA
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Novelas",Las Estrellas | MEXICO
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Música",Neox TV
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="General",Telemax | ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
 
 
 
