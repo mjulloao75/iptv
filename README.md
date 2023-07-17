@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://imgur.com/on11Wyx" group-title="General",Latina | PERU
+#EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://imgur.com/on11Wyx.png" group-title="General",Latina | PERU
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
-#EXTINF:-1 tvg-id="ContactoDeportivo" tvg-logo="https://www.mediafire.com/view/z3wzdth2biocq28/PERU_Contacto_Deportivo.png/file" group-title="Deportes",Contacto Deportivo | PERU
+#EXTINF:-1 tvg-id="ContactoDeportivo" tvg-logo="https://i.imgur.com/p8K7E54.png" group-title="Deportes",Contacto Deportivo | PERU
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV | PERU
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/my00JVZ.png" group-title="General",Panamericana TV | PERU
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 https://cdnh74.iblups.com/hls/ptv2.m3u8
 
