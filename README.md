@@ -8,6 +8,7 @@ https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV | PERU
 https://cdnh71.iblups.com/hls/ptv2.m3u8
+https://cdnh74.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="General",Region Callao TV | PERU
 https://servilive.com:3757/live/regiontvlive.m3u8
