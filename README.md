@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="LatinaTV" tvg-logo="https://www.mediafire.com/view/07unoc9t09s9mid/PERU_Latina.png/file" group-title="General",Latina | PERU
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
-#EXTINF:-1 tvg-id="ContactoDeportivo" tvg-logo="https://www.mediafire.com/view/z3wzdth2biocq28/PERU_Contacto_Deportivo.png/file" group-title="Deportes",Contacto Deportivo | PERUs
+#EXTINF:-1 tvg-id="ContactoDeportivo" tvg-logo="https://www.mediafire.com/view/z3wzdth2biocq28/PERU_Contacto_Deportivo.png/file" group-title="Deportes",Contacto Deportivo | PERU
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV | PERU
