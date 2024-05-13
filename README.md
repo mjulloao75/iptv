@@ -941,7 +941,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/b_Bk9NUUE5oG4vIhgDrToC7oHQx_LpQANaIw8oCFWoo_0.jpg" group-title="Deportes",Regional MX | Canela TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/b_Bk9NUUE5oG4vIhgDrToC7oHQx_LpQANaIw8oCFWoo_0.jpg" group-title="Música",Regional MX | Canela TV
 https://stream.ads.ottera.tv/cl/240513cp1457detd0j0kc68itg/1280x720_2300000_0_f.m3u8?i=475_1084
 
 
